@@ -20,12 +20,12 @@ Checks each turn to determine if a player has won or if the game ends in a tie. 
 
 Positions must be entered in the following form, upper or lower case:
 
-.......................
+
 | A1 | B1 | C1 |
 
-.......................
+
 | A2 | B2 | C2 |
 
-.......................
+
 | A3 | B3 | C3 |
-.......................
+
