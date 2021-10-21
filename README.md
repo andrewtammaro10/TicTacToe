@@ -18,7 +18,7 @@ Player 2 - O
 
 Checks each turn to determine if a player has won or if the game ends in a tie. Reports win or tie and exits game.
 
-Positions must be entered in the following form, upper or lower case:
+Positions must be entered in the following form, upper case:
 
 
 | A1 | B1 | C1 |
